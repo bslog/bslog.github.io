@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mpseb.github.io/anexos/ebi/</loc>
+    <loc>https://bslog.github.io/anexos/ebi/</loc>
     <lastmod>2018-08-31T09:13:53-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mpseb.github.io/en/anexos/ebi/"
+                href="https://bslog.github.io/en/anexos/ebi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://mpseb.github.io/anexos/ebi/"
+                href="https://bslog.github.io/anexos/ebi/"
                 />
   </url>
   
   <url>
-    <loc>https://mpseb.github.io/</loc>
+    <loc>https://bslog.github.io/</loc>
     <lastmod>2018-08-31T09:13:53-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mpseb.github.io/en/"
+                href="https://bslog.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://mpseb.github.io/"
+                href="https://bslog.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://mpseb.github.io/anexos/</loc>
+    <loc>https://bslog.github.io/anexos/</loc>
     <lastmod>2018-08-31T09:13:53-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mpseb.github.io/en/anexos/"
+                href="https://bslog.github.io/en/anexos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://mpseb.github.io/anexos/"
+                href="https://bslog.github.io/anexos/"
                 />
   </url>
   
   <url>
-    <loc>https://mpseb.github.io/categories/</loc>
+    <loc>https://bslog.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mpseb.github.io/en/categories/"
+                href="https://bslog.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://mpseb.github.io/categories/"
+                href="https://bslog.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://mpseb.github.io/tags/</loc>
+    <loc>https://bslog.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mpseb.github.io/en/tags/"
+                href="https://bslog.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://mpseb.github.io/tags/"
+                href="https://bslog.github.io/tags/"
                 />
   </url>
   
