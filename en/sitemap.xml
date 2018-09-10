@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mpseb.github.io/en/anexos/ebi/</loc>
+    <lastmod>2018-08-31T09:13:53-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://mpseb.github.io/anexos/ebi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpseb.github.io/en/anexos/ebi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpseb.github.io/en/anexos/</loc>
+    <lastmod>2018-08-31T09:13:53-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://mpseb.github.io/anexos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpseb.github.io/en/anexos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpseb.github.io/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://mpseb.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpseb.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpseb.github.io/en/</loc>
+    <lastmod>2018-08-31T09:13:53-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://mpseb.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpseb.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpseb.github.io/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://mpseb.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpseb.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>

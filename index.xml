@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moisés P. Sena&#39;s Estudos Bíblicos</title>
+    <title>Registro de Estudo Bíblico - Por Moisés P. Sena</title>
     <link>https://mpseb.github.io/</link>
-    <description>Recent content on Moisés P. Sena&#39;s Estudos Bíblicos</description>
+    <description>Recent content on Registro de Estudo Bíblico - Por Moisés P. Sena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 31 Aug 2018 09:13:53 -0300</lastBuildDate>
     
 	<atom:link href="https://mpseb.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ebi</title>
-      <link>https://mpseb.github.io/posts/ebi/</link>
-      <pubDate>Fri, 31 Aug 2018 09:13:53 -0300</pubDate>
-      
-      <guid>https://mpseb.github.io/posts/ebi/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Estudo Bíblico Indutivo</title>
